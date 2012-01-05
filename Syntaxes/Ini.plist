@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>ini</string>
+		<string>cfg</string>
 		<string>conf</string>
 	</array>
 	<key>foldingStartMarker</key>
